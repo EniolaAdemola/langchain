@@ -1,7 +1,13 @@
 langchain
 openai
 ipykernel
-langchain_community
+langchain-community
 python-dotenv
 pypdf
 bs4
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters 
+lxml
+langchain-openai
