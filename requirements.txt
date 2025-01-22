@@ -11,3 +11,6 @@ wikipedia
 langchain-text-splitters 
 lxml
 langchain-openai
+chromadb
+sentence-transformers
+langchain_huggingface
